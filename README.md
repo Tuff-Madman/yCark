@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Alt Text](https://media.giphy.com/media/uZKPjPheJb2bBkt4gj/giphy.gif)
-
-
-![Alt Text](https://media.giphy.com/media/uZKPjPheJb2bBkt4gj/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/26zzgaDnp9HgPX1uw/giphy.gif "Optional Title")
 
 <!---
 yCark/yCark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
